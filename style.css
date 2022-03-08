@@ -32,6 +32,13 @@ p {
     font-size: 30px;
 }
 
+button {
+    margin:5px;
+    padding: 10px;
+    background-color:#b2d732;
+    font-size: 15px;
+}
+
 ul li {
     font-weight: bold;
     font-size: 25px;
