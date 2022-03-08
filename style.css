@@ -35,6 +35,7 @@ p {
 button {
     margin:5px;
     padding: 10px;
+    border-color:#4424d6;
     background-color:#b2d732;
     font-size: 15px;
 }
