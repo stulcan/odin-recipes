@@ -56,3 +56,9 @@ img {
     display: block;
     border-radius: 8px;
 }
+
+.home {
+    padding:5px;
+    background-color:#4424d6;
+    color: #b2d732;
+}
